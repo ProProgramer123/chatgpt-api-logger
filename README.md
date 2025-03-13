@@ -34,3 +34,6 @@ You are responsible for your own actions. Use this script responsibly.
 
 # It won't open, why?
 Make sure you have Python installed and the required dependencies!
+
+# Is there a free key inside the code?
+No, why would you think that?
