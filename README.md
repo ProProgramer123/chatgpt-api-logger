@@ -1,6 +1,7 @@
 # chatgpt-api-logger
 
 This script attempts to find a working OpenAI API from a list of known endpoints. Internet Required.
+Command Prompt/Terminal should be used.
 
 # What does it do?
 It will try different OpenAI API endpoints endlessly until it finds one that works. It also searches for a model that fits with the API by fetching available models from OpenAI. If fetching models fails, it falls back to a predefined list of OpenAI endpoints.
